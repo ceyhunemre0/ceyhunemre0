@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Ceyhun Emre TOP
+## 👋 Hey there, I'm Ceyhun Emre
 
 I'm a passionate and versatile developer with a deep interest in **Artificial Intelligence**, **Web Development**, and **Data Science**.  
 I enjoy building intelligent systems, crafting clean and scalable web applications, and continuously learning new technologies.
