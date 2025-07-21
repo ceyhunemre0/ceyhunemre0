@@ -1,3 +1,13 @@
+## 👋 Hey there, I'm Ceyhun Emre TOP
+
+I'm a passionate and versatile developer with a deep interest in **Artificial Intelligence**, **Web Development**, and **Data Science**.  
+I enjoy building intelligent systems, crafting clean and scalable web applications, and continuously learning new technologies.
+
+Currently, I'm working on AI-powered tools, backend services, and web interfaces using **Python**, **JavaScript/TypeScript**, **Next.js**, and **FastAPI**.  
+I also explore how machine learning can be used in real-world applications — from **text processing** to **visual similarity analysis**.
+
+📬 I'm always open to collaboration, creative ideas, and challenging problems.  
+Let’s connect and build something awesome together! 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/only_emree) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ceyhun-emre-top-85212b311) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ceyhunemretop0@gmail.com) 
@@ -14,5 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ceyhunemre0&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
