@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm a Computer Engineer, Full-Stack Developer & AI Specialist passionate about building autonomous systems and scalable web applications.<br><br>I specialize in crafting end-to-end solutions—from clean, responsive UIs to intelligent backend services, robust databases, and real-time dashboards.<br><br>What I'm currently working on:<br><br>AI & Machine Learning: Developing LLM-powered autonomous agents (LangChain, n8n, MCP), computer vision solutions (OpenCV), and data visualization models.<br><br>Full-Stack & Databases: Architecting modern SaaS products and web interfaces using Next.js, TypeScript, React, Tailwind CSS, Python, and C#, backed by scalable databases like PostgreSQL, MSSQL, and Supabase.<br><br>Automation & Data: Advanced web scraping and data extraction workflows (Playwright).<br><br>I'm always open to collaboration, freelance opportunities, and challenging problems. Let’s connect and build something awesome together!
 
 
